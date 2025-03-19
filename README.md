@@ -1,4 +1,9 @@
-[!image](static/image.webp)
+
+<div align="center">
+  <img src="static/image1.png" alt="image" width="900"/>
+</div>
+
+---
 
 - 👋 Hi, I’m @syntaxllm
 - 👀 I’m interested in ...
